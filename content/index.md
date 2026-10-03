@@ -8,7 +8,7 @@ A personal knowledge base for software engineering — documenting concepts, pro
 
 ---
 
-## 💻 CS Fundamentals
+## CS Fundamentals
 
 Core programming concepts and language-specific notes.
 
@@ -24,7 +24,7 @@ Topics include concurrency, collections, memory, language features, and common i
 
 ---
 
-## 🧩 Data Structures & Algorithms
+## Data Structures & Algorithms
 
 Algorithm patterns, data structures, and problems I've solved.
 
@@ -47,7 +47,7 @@ Each problem focuses not only on the final solution, but also on the reasoning p
 
 ---
 
-## 🏗️ System Design
+## System Design
 
 Notes and design exercises for building scalable distributed systems.
 
@@ -85,7 +85,7 @@ Examples include:
 
 ---
 
-## ⚙️ Random Engineering Problems
+## Random Engineering Problems
 
 Practical engineering problems that don't fit neatly into traditional algorithm or system-design categories.
 

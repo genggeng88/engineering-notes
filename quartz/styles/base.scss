@@ -160,8 +160,11 @@ a {
 }
 
 .page {
-  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
-  margin: 0 auto;
+  // max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  // margin: 0 auto;
+  width: 100%;
+  max-width: none;
+  margin: 0;
   & article {
     & > h1 {
       font-size: 2rem;
